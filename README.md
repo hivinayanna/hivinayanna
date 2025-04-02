@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hivinayanna;
-- 🌱 HTML | CSS | JavaScript | React.js | Vue.js | Angular | Tailwind CSS | Styled Components | Bootstrap | APIs | Git & GitHub;
+- 🌱 HTML | CSS | JavaScript | React.js | Vue.js | Angular | Tailwind CSS | Styled Components | Bootstrap | APIs | Git;
 - 💞️ I’m collaborating as a front-end developer;
 - 👀 Open to work;
 - 📫 How to reach me: e-mail - yhivina@gmail.com;
